@@ -1,16 +1,13 @@
-
----
+# Practice Machine Learning Programming Projects
 
 <div align="center">
 <img width="128px" src="https://file.labex.io/path/1kXLbMH5geSl.png">
 </div>
 
-## Machine Learning
-
 Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
 
-|   Index | Name                                                  | Level   | Project Link                                                                                                 |
-|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                  |
+|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------|
 |      01 | Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)         |
 |      02 | Deploying a Simple TensorFlow Model                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)                     |
 |      03 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
@@ -31,8 +28,9 @@ Machine learning is the science of programming computers so they can learn from 
 |      18 | Simple Handwritten Character Recognition Classifie... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier)     |
 |      19 | Balanced Batch Generation for Imbalanced Datasets     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-unbalanced-data-pipeline)                                |
 
-### More
+## More
 
-- 🔗 [Machine Learning Programming Courses](https://github.com/labex-labs/awesome-programming-courses?tab=readme-ov-file#ml)
 - 🔗 [Machine Learning Free Tutorials](https://github.com/labex-labs/ml-free-tutorials)
+- 🔗 [Awesome Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Awesome Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 
