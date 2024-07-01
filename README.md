@@ -6,8 +6,8 @@
 
 Machine learning is the science of programming computers so they can learn from data. It is a subfield of artificial intelligence. Machine learning is closely related to computational statistics, which also focuses on prediction-making through the use of computers. 
 
-|   Index | Name                                                  | Level   | Project Link                                                                                                  |
-|---------|-------------------------------------------------------|---------|---------------------------------------------------------------------------------------------------------------|
+|   Index | Name                                                  | Level   | Project Link                                                                                                 |
+|---------|-------------------------------------------------------|---------|--------------------------------------------------------------------------------------------------------------|
 |      01 | Deploying MobileNet With TensorFlow.js and Flask      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-mobilenet-with-tensorflowjs-and-flask)         |
 |      02 | Deploying a Simple TensorFlow Model                   | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-deploying-a-simple-tensorflow-model)                     |
 |      03 | ASCII Art Animation With OpenCV                       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-ascii-art-animation-with-opencv)                         |
@@ -23,10 +23,10 @@ Machine learning is the science of programming computers so they can learn from 
 |      13 | K-Nearest Neighbors Regression Algorithm Implement... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-k-nearest-neighbors-regression-algorithm-implementation) |
 |      14 | Linear Regression Fitting and Plotting                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-regression-fitting-and-plotting)                  |
 |      15 | Nonlinear Regression Model Estimation                 | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-linear-validation-method)                                |
-|      16 | Implementing Minkowski Distance Metric                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-minkowski-distances-calculating)                         |
+|      16 | Implementing Minkowski Distance Metric                | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-implementing-minkowski-distance-metric)                  |
 |      17 | Implementation of Polynomial Regression               | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-polynomial-regression-implementation-and-application)    |
 |      18 | Simple Handwritten Character Recognition Classifie... | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-simple-handwritten-character-recognition-classifier)     |
-|      19 | Balanced Batch Generation for Imbalanced Datasets     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-unbalanced-data-pipeline)                                |
+|      19 | Balanced Batch Generation for Imbalanced Datasets     | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-balanced-batch-generation-for-imbalanced-datasets)       |
 
 ## More Projects
 
