@@ -57,6 +57,7 @@ Machine Learning is transforming industries across the globe. This Skill Tree pr
 - [CSS Programming Projects](https://github.com/labex-labs/practice-css-programming-projects)
 - [JavaScript Programming Projects](https://github.com/labex-labs/practice-javascript-programming-projects)
 - [React Programming Projects](https://github.com/labex-labs/practice-react-programming-projects)
+- [MongoDB Programming Projects](https://github.com/labex-labs/practice-mongodb-programming-projects)
 
 
 ## Other Lists
